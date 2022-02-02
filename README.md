@@ -1,1 +1,1 @@
-# Jogo-de-Memoria-Estilo-Genesis criado em HTML%, CSS3 E JavaScript
+# Jogo-de-Memoria-Estilo-Genesis criado em HTML5, CSS3 e JavaScript
